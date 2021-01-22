@@ -1,5 +1,6 @@
 import React from 'react'
 import { Text, View, Button } from 'react-native'
+import Login from './components/auth/Login'
 
 export default function Landing({ navigation }) {
     return (
